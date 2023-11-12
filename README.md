@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Es Lewixx</h1>
 <h3 align="center">Merhabalar Ben Es Lewixx Ve Bir Frontend Geliştiricisiyim</h3>
-<img align="right" height="150" src="https://camo.githubusercontent.com/5500ed064e0544c3d82ea737c1572cc2f92eef35603f010e81173a9433b27a86/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a76616e74652d78797a3f7468656d653d61736f756c"/>
+<img align="right" height="150" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"/>
 
 - 🌱 I’m currently learning **React,Typescript**
 
