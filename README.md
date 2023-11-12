@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Es Lewixx</h1>
 <h3 align="center">Merhabalar Ben Es Lewixx Ve Bir Frontend Geliştiricisiyim</h3>
 <img align="right" height="150" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"/>
+<img align="right" src="https://count.getloli.com/get/@:vante-xyz?theme=asoul"/>
 
 - 🌱 I’m currently learning **React,Typescript**
 
