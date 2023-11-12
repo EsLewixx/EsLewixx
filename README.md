@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Es Lewixx</h1>
 <h3 align="center">Merhabalar Ben Es Lewixx Ve Bir Frontend Geliştiricisiyim</h3>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
+<img align="right" height="150" src="https://camo.githubusercontent.com/5500ed064e0544c3d82ea737c1572cc2f92eef35603f010e81173a9433b27a86/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a76616e74652d78797a3f7468656d653d61736f756c"/>
 
 - 🌱 I’m currently learning **React,Typescript**
 
 - 👨‍💻 More About [eslewixx.vercel.app](eslewixx.vercel.app)
 
-- 💬 Ask me about **Html,Css And Python**
+- 💬 Ask me about **Html, Css, Javascript, C# And Python**
 
 - 📫 How to reach me **lewixx12x@gmail.com**
 
