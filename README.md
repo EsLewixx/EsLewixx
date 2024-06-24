@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **lewixx12x@gmail.com**
 
-- ⚡ My Favorite Streamer **https://www.twitch.tv/kuzey_kose**
-
 <img align="right" src="https://count.getloli.com/get/@:vante-xyz?theme=asoul"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
