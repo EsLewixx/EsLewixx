@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React,Typescript**
 
-- 👨‍💻 More About [eslewixx.vercel.app](eslewixx.vercel.app)
+- 👨‍💻 More About [Click Me!](https://lewixx.carrd.co/)
 
 - 💬 Ask me about **Html, Css, Javascript, C# And Python**
 
